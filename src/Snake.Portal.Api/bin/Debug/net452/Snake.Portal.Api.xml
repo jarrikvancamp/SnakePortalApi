@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Snake.Portal.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Snake.Portal.Api.Controllers.IdentitiesController.GetToken">
+            <summary>
+            in front use
+            httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", "Your Oauth token");
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

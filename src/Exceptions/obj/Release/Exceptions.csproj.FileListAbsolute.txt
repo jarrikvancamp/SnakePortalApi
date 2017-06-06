@@ -1,0 +1,5 @@
+C:\Projects\SnakePortal\Snake.Portal.Api\src\Exceptions\bin\Release\Exceptions.dll
+C:\Projects\SnakePortal\Snake.Portal.Api\src\Exceptions\bin\Release\Exceptions.pdb
+C:\Projects\SnakePortal\Snake.Portal.Api\src\Exceptions\obj\Release\Exceptions.csprojResolveAssemblyReference.cache
+C:\Projects\SnakePortal\Snake.Portal.Api\src\Exceptions\obj\Release\Exceptions.dll
+C:\Projects\SnakePortal\Snake.Portal.Api\src\Exceptions\obj\Release\Exceptions.pdb

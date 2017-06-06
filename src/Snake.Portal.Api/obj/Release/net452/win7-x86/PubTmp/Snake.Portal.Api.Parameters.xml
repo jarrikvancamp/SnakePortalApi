@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="api-snakeportal-prod" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Projects\\SnakePortal\\Snake\.Portal\.Api\\src\\Snake\.Portal\.Api\\obj\\Release\\net452\\win7-x86\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

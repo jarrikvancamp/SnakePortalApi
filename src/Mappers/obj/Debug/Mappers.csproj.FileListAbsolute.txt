@@ -1,0 +1,13 @@
+C:\Projects\SnakePortal\Snake.Portal.Api\src\Mappers\bin\Debug\Mappers.dll
+C:\Projects\SnakePortal\Snake.Portal.Api\src\Mappers\bin\Debug\Mappers.pdb
+C:\Projects\SnakePortal\Snake.Portal.Api\src\Mappers\bin\Debug\Autofac.dll
+C:\Projects\SnakePortal\Snake.Portal.Api\src\Mappers\bin\Debug\AutoMapper.dll
+C:\Projects\SnakePortal\Snake.Portal.Api\src\Mappers\bin\Debug\DTO.dll
+C:\Projects\SnakePortal\Snake.Portal.Api\src\Mappers\bin\Debug\Entities.dll
+C:\Projects\SnakePortal\Snake.Portal.Api\src\Mappers\bin\Debug\Entities.pdb
+C:\Projects\SnakePortal\Snake.Portal.Api\src\Mappers\bin\Debug\DTO.pdb
+C:\Projects\SnakePortal\Snake.Portal.Api\src\Mappers\bin\Debug\Autofac.xml
+C:\Projects\SnakePortal\Snake.Portal.Api\src\Mappers\bin\Debug\AutoMapper.xml
+C:\Projects\SnakePortal\Snake.Portal.Api\src\Mappers\obj\Debug\Mappers.csprojResolveAssemblyReference.cache
+C:\Projects\SnakePortal\Snake.Portal.Api\src\Mappers\obj\Debug\Mappers.dll
+C:\Projects\SnakePortal\Snake.Portal.Api\src\Mappers\obj\Debug\Mappers.pdb

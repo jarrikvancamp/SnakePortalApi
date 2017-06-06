@@ -1,0 +1,5 @@
+C:\Projects\SnakePortal\Snake.Portal.Api\SnakePortal.Shared\bin\Debug\SnakePortal.Shared.dll
+C:\Projects\SnakePortal\Snake.Portal.Api\SnakePortal.Shared\bin\Debug\SnakePortal.Shared.pdb
+C:\Projects\SnakePortal\Snake.Portal.Api\SnakePortal.Shared\obj\Debug\SnakePortal.Shared.dll
+C:\Projects\SnakePortal\Snake.Portal.Api\SnakePortal.Shared\obj\Debug\SnakePortal.Shared.pdb
+C:\Projects\SnakePortal\Snake.Portal.Api\SnakePortal.Shared\obj\Debug\SnakePortal.Shared.csprojResolveAssemblyReference.cache

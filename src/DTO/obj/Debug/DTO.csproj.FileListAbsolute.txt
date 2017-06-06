@@ -1,0 +1,5 @@
+C:\Projects\SnakePortal\Snake.Portal.Api\src\DTO\bin\Debug\DTO.dll
+C:\Projects\SnakePortal\Snake.Portal.Api\src\DTO\bin\Debug\DTO.pdb
+C:\Projects\SnakePortal\Snake.Portal.Api\src\DTO\obj\Debug\DTO.dll
+C:\Projects\SnakePortal\Snake.Portal.Api\src\DTO\obj\Debug\DTO.pdb
+C:\Projects\SnakePortal\Snake.Portal.Api\src\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache

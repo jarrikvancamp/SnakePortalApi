@@ -1,0 +1,5 @@
+C:\Projects\SnakePortal\Snake.Portal.Api\src\Entities\bin\Release\Entities.dll
+C:\Projects\SnakePortal\Snake.Portal.Api\src\Entities\bin\Release\Entities.pdb
+C:\Projects\SnakePortal\Snake.Portal.Api\src\Entities\obj\Release\Entities.csprojResolveAssemblyReference.cache
+C:\Projects\SnakePortal\Snake.Portal.Api\src\Entities\obj\Release\Entities.dll
+C:\Projects\SnakePortal\Snake.Portal.Api\src\Entities\obj\Release\Entities.pdb
